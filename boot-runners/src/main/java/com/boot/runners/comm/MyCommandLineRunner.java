@@ -12,7 +12,7 @@ public class MyCommandLineRunner implements CommandLineRunner{
 		// his method will be called after the IOC container has been created
 		// and after bean definitions has been instantiated and before starting the requests.
 		
-		System.out.println("commandlien runners started.....");
+		System.out.println("commandline runners started.....");
 	}
 
 }
